@@ -6,7 +6,8 @@ app:
 
 # Image tag
 image:
-  tag: staging
+  tag: "staging-v1"
+  digest: "sha256:750e404ff7676eaf88bcb3b77399757700bf48d4b8aac548c29cc8826722e55d"
 
 # Environment variables - override for staging
 env:
