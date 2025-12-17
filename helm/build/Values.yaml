@@ -4,7 +4,7 @@
 app:
   name: test-app
   namespace: test-app-dev
-  clusterDomain: apps.rosa.kup9t-xin7u-x37.ssaj.p3.openshiftapps.com
+  clusterDomain: apps.rosa.n2qrm-z5jbc-gp7.c23q.p3.openshiftapps.com
 
 # ===========================================
 # Git Repository Configuration
@@ -20,7 +20,7 @@ git:
 # ArgoCD Configuration
 # ===========================================
 argocd:
-  server: openshift-gitops-server-openshift-gitops.apps.rosa.kup9t-xin7u-x37.ssaj.p3.openshiftapps.com
+  server: openshift-gitops-server-openshift-gitops.apps.rosa.n2qrm-z5jbc-gp7.c23q.p3.openshiftapps.com
   namespace: openshift-gitops
 
 # ===========================================
